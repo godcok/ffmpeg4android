@@ -229,7 +229,7 @@ done
 
 `输出结果：`
 
-![](https://github.com/byhook/ffmpeg4android/blob/master/screenshots/20181028223843689.png)
+![](https://github.com/godcok/ffmpeg4android/blob/master/screenshots/20181028223843689.png)
 
 #### 开始编译x264库
 
@@ -257,7 +257,7 @@ bash build_all_x264.sh
 ```
 
 稍等片刻即可生成相关的文件
-![](https://github.com/byhook/ffmpeg4android/blob/master/screenshots/20181028222816153.png)
+![](https://github.com/godcok/ffmpeg4android/blob/master/screenshots/20181028222816153.png)
 
 #### 开始编译fdk-aac库
 
@@ -279,13 +279,13 @@ bash build_all_fdkaac.sh
 ```
 
 `输出如下：`
-![](https://github.com/byhook/ffmpeg4android/blob/master/screenshots/20181028223303504.png)
+![](https://github.com/godcok/ffmpeg4android/blob/master/screenshots/20181028223303504.png)
 
 #### ffmpeg混合编译x264和fdk-aar库
 
 `目录结构如下：`
 
-![](https://github.com/byhook/ffmpeg4android/blob/master/screenshots/2018102823133512.png)
+![](https://github.com/godcok/ffmpeg4android/blob/master/screenshots/2018102823133512.png)
 
 ```java
 ——fdk-aac-0.1.6
@@ -307,7 +307,7 @@ bash build_ffmpeg_with_x264_fdkaac_all.sh
 
 `混合输出结果：`
 
-![](https://github.com/byhook/ffmpeg4android/blob/master/screenshots/20181028224153651.png)
+![](https://github.com/godcok/ffmpeg4android/blob/master/screenshots/20181028224153651.png)
 
 `全部脚本地址：`
 https://github.com/byhook/ffmpeg4android
